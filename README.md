@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Beatriz+Maia;I'm+21+years+old)](https://git.io/typing-svg)
 
 <div align="center">
-<p>🔭 Atualmente estou no curso de Engenharia Informática do ISEC (Coimbra)</p>
+<p>🔭 Atualmente estou no mestrado de Engenharia Informática do ISEC (Coimbra)</p>
 <p>🌱 Estou a estudar Front-End e Desenvolvimento de aplicações Android</p>
 </div>
 
