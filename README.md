@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Beatriz+Maia;I'm+21+years+old)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Beatriz+Maia;I'm+22+years+old)](https://git.io/typing-svg)
 
 <div align="center">
 <p>🔭 Atualmente estou no mestrado de Engenharia Informática do ISEC (Coimbra)</p>
