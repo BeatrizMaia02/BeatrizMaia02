@@ -3,7 +3,6 @@
 
 <div align="center">
 <p>🔭 Atualmente estou no mestrado de Engenharia Informática do ISEC (Coimbra)</p>
-<p>🌱 Estou a estudar Front-End e Desenvolvimento de aplicações Android</p>
 </div>
 
 <div align="center">
